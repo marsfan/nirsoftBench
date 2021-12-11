@@ -1,0 +1,44 @@
+# General Stuff (Normally will need out of the box updating in virtual environments)
+pip
+setuptools
+
+# Formatter for VScode to use to autoformat
+autopep8
+
+# Linters
+# Helps write cleaner, simpler, and more efficent code
+# Also can detect errors before run
+pydocstyle
+pycodestyle
+mypy
+flake8
+pylint
+cohesion
+darglint
+dlint
+
+# flake8 Plugins.
+# Not all are currently relavent for the code, but may be in the future
+# So I am including them just in case
+flake8-bandit
+flake8-annotations-complexity
+flake8-blind-except
+flake8-breakpoint
+flake8-broken-line
+flake8-bugbear
+flake8-builtins
+flake8-coding
+flake8-commas
+flake8-comprehensions
+flake8-debugger
+flake8-eradicate
+flake8-executable
+flake8-logging-format
+flake8-mutable
+flake8-pep3101
+flake8-pie
+flake8-pyi
+flake8-quotes
+flake8-string-format
+flake8-typing-imports
+flake8-variables-names
